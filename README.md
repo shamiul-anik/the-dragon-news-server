@@ -1,4 +1,4 @@
-## GitHub Web Site Client Side Code Link: 
+## GitHub Code Link: (Client Side)
 https://github.com/shamiul-anik/the-dragon-news
 
 ## Steps:
