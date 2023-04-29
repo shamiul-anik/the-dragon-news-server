@@ -6,4 +6,9 @@ https://github.com/shamiul-anik/the-dragon-news
 1. Express should be installed.   
 2. Run in command line: nodemon index.js (nodemon should be installed)
 3. Copy the data folder.
-4. Install cors middleware using npm install cors command. (Docs: https://expressjs.com/en/resources/middleware/cors.html)
+4. Install cors middleware using npm install cors command.
+
+### Documentation:
+1. https://expressjs.com/en/starter/installing.html
+2. https://www.npmjs.com/package/nodemon
+3. Cors: https://expressjs.com/en/resources/middleware/cors.html
