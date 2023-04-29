@@ -9,10 +9,15 @@ app.get("/", (req, res) => {
 
 app.use(cors());
 
-const categories = require("./data/categories.json"); // data import
+const categories = require("./data/categories.json"); // category data import
+const news = require("./data/news.json"); // news data import
 
 app.get("/categories", (req, res) => {
   res.send(categories); // sending categories as response
+});
+
+app.get("/news", (req, res) => {
+  res.send(news); // sending news as response
 });
 
 app.listen(port, () => {
