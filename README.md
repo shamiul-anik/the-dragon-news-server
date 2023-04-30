@@ -9,6 +9,29 @@ https://github.com/shamiul-anik/the-dragon-news
 4. Install cors middleware using npm install cors command.
 
 ### Documentation:
-1. Express: https://expressjs.com/en/starter/installing.html
-2. Nodemon: https://www.npmjs.com/package/nodemon
-3. Cors: https://expressjs.com/en/resources/middleware/cors.html
+<table>
+  <thead>
+    <tr>
+      <th>Serial No.</th>
+      <th>Name</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Express</td>
+      <td>https://expressjs.com/en/starter/installing.html</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nodemon</td>
+      <td>https://www.npmjs.com/package/nodemon</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Cors</td>
+      <td>https://expressjs.com/en/resources/middleware/cors.html</td>
+    </tr>
+  </tbody>
+</table>
