@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.send("Dragon server is running with nodemon!"); // sending response to the server
 });
 
-app.use(cors());
+app.use(cors()); // As we are calling from the API, we need to use cors middleware
 
 const categories = require("./data/categories.json"); // category data import
 const news = require("./data/news.json"); // news data import
